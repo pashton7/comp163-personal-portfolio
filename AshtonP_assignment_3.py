@@ -1,7 +1,7 @@
 # Personal Information Storage
-full_name = "Jordan Smith"
-student_email = "jsmith@ncat.edu"
-hometown = "Charlotte, NC"
+full_name = "Ashton Partridge"
+student_email = "awpartridge@ncat.edu"
+hometown = "Greensboro, NC"
 graduation_semester = "Spring 2028"
 major = "Computer Science"
 
