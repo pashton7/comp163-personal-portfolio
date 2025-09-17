@@ -19,11 +19,11 @@ twitter_info = ("Twitter", "N/A", 0)
 birthday = ("Birthday", 5, 22, 2006)
 
 # Intrest Tracking
-current_skills = {"Python basics", "HTML", "Problem solving", "Time management", "Photography"}
-skills_to_learn = {"JavaScript", "Data structures", "Git", "Web design", "Public speaking"}
-career_intrests = {"Software development", "Web development", "Data science", "Game development"}
-hobbies = {"Gaming", "Photography", "Reading", "Soccer", "Music"}
-entertainment_backlog = {"One Piece", "Barry", "Life", "Incantation", "Memento"}
+current_skills = {"Python basics", "LUA", "Problem solving", "Time management"}
+skills_to_learn = {"JavaScript", "Data structures", "Git", "SQL", "Public speaking", "HTML"}
+career_intrests = {"Software development", "Data science", "Game development"}
+hobbies = {"Gaming", "Movies", "Reading", "Fishing", "Music"}
+entertainment_backlog = {"LOTR: Extended Cut", "Blue Velvet", "No Country For Old Men", "Game of Thrones"}
 
 # Organizational Mapping
 course_credits = {"COMP 163": 3, "COMP 180":3, "SPCH 250": 3, "HIST 106": 3}
