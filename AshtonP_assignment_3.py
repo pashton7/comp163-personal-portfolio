@@ -12,7 +12,7 @@ credit_hours = [3, 3, 3, 3]
 GPA_history = [4.0, 3.8, 3.2, 3.7]
 
 # Contact Information Storage
-emergency_contact = ("Mom", "Hannah Smith", "704-555-0199")
+emergency_contact = ("Mom", "Melanie Partridge", "704-555-0199")
 home_address = ("456 Oak Street","Charlotte","NC", "28202")
 instagram_info = ("Instagram", "@pasht0n7", 7)
 twitter_info = ("Twitter", "N/A", 0)
