@@ -29,8 +29,8 @@ entertainment_backlog = {"LOTR: Extended Cut", "Blue Velvet", "No Country For Ol
 course_credits = {"COMP 163": 3, "COMP 180":3, "SPCH 250": 3, "HIST 106": 3}
 course_professors = {"COMP 163": "Prof. Rhodes", "COMP 180": "Dr. Pioro", "SPCH 250": "Dr. Crossen", "HIST 106": "Dr. Devoe"}
 course_rooms = {"COMP 163": "M-Eric 300", "COMP 180": "M-Eric 201", "ENG 101": "Crosby 121", "HIS 105": "Crosby 210"}
-monthy_budget = {"Food": 450, "Entertainment": 200, "Books": 125, "Transportation": 100}
-study_hours_per_subject = {"Programming": 10, "Math": 8, "English": 4, "History": 3}
+monthy_budget = {"Food": 220, "Entertainment": 170, "Books": 115, "Transportation": 80}
+study_hours_per_subject = {"Programming": 10, "Speech": 4, "History": 6}
 contact_directory = {"Mom": "704-555-0199", "Roomate": "336-555-7821", "Academic Advisor": "336-334-5000"}
 
 # Required Calculations
