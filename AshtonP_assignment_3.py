@@ -6,16 +6,16 @@ graduation_semester = "Spring 2028"
 major = "Computer Science"
 
 # Academic Data Organization
-current_courses = ["COMP 163", "MATH 150", "ENG 101", "HIS 105"]
-completed_courses = ["Biology", "Chemistry", "Calculus", "Spanish II", "World History"]
+current_courses = ["COMP 163", "COMP 180", "SPCH 250", "HIST 106"]
+completed_courses = ["English", "Physics I", "Calculus I", "Micro-Economics", "Calculus II"]
 credit_hours = [3, 3, 3, 3]
-GPA_history = [3.2, 3.6, 3.4, 3.7]
+GPA_history = [4.0, 3.8, 3.2, 3.7]
 
 # Contact Information Storage
 emergency_contact = ("Mom", "Hannah Smith", "704-555-0199")
-home_adrdress = ("456 Oak Street","Charlotte","NC", "28202")
-instagram_info = ("Instagram", "@jordan_codes", 312)
-twitter_info = ("Twitter", "@jordandev", 127)
+home_address = ("456 Oak Street","Charlotte","NC", "28202")
+instagram_info = ("Instagram", "@pasht0n7", 7)
+twitter_info = ("Twitter", "N/A", 0)
 birthday = ("Birthday", 5, 22, 2006)
 
 # Intrest Tracking
@@ -26,9 +26,9 @@ hobbies = {"Gaming", "Photography", "Reading", "Soccer", "Music"}
 entertainment_backlog = {"One Piece", "Barry", "Life", "Incantation", "Memento"}
 
 # Organizational Mapping
-course_credits = {"COMP 163": 3, "MATH 150":3, "ENG 101": 3, "HIS 105": 3}
-course_professors = {"COMP 163": "Prof. Rhodes", "MATH 150": "Dr. Lee", "ENG 101": "Dr. Martinez", "HIS 105": "Dr. Brown"}
-course_rooms = {"COMP 163": "M-Eric 300", "MATH 150": "Marteena 201", "ENG 101": "Crosby 121", "HIS 105": "Crosby 210"}
+course_credits = {"COMP 163": 3, "COMP 180":3, "SPCH 250": 3, "HIST 106": 3}
+course_professors = {"COMP 163": "Prof. Rhodes", "COMP 180": "Dr. Pioro", "SPCH 250": "Dr. Crossen", "HIST 106": "Dr. Devoe"}
+course_rooms = {"COMP 163": "M-Eric 300", "COMP 180": "M-Eric 201", "ENG 101": "Crosby 121", "HIS 105": "Crosby 210"}
 monthy_budget = {"Food": 450, "Entertainment": 200, "Books": 125, "Transportation": 100}
 study_hours_per_subject = {"Programming": 10, "Math": 8, "English": 4, "History": 3}
 contact_directory = {"Mom": "704-555-0199", "Roomate": "336-555-7821", "Academic Advisor": "336-334-5000"}
@@ -66,9 +66,9 @@ print(f"Academic Investment: ${study_cost_per_hours} per study hour\n")
 
 print("Current Courses:")
 print(f"{current_courses[0]} - {credit_hours[0]} credits - {course_professors["COMP 163"]} - {course_rooms["COMP 163"]}")
-print(f"{current_courses[1]} - {credit_hours[1]} credits - {course_professors["MATH 150"]} - {course_rooms["MATH 150"]}")
-print(f"{current_courses[2]} - {credit_hours[2]} credits - {course_professors["ENG 101"]} - {course_rooms["ENG 101"]}")
-print(f"{current_courses[3]} - {credit_hours[3]} credits - {course_professors["HIS 105"]} - {course_rooms["HIS 105"]}\n")
+print(f"{current_courses[1]} - {credit_hours[1]} credits - {course_professors["COMP 180"]} - {course_rooms["COMP 180"]}")
+print(f"{current_courses[2]} - {credit_hours[2]} credits - {course_professors["SPCH 250"]} - {course_rooms["SPCH 250"]}")
+print(f"{current_courses[3]} - {credit_hours[3]} credits - {course_professors["HIST 106"]} - {course_rooms["HIST 106"]}\n")
 
 print("=== PERSONAL DEVELOPMENT ===")
 print(f"Current Skills:", current_skills)
@@ -87,7 +87,7 @@ print(f"Annual Projection: ${annual_budget_projection}\n")
 
 print("=== CONNECTIONS & CONTACTS ===")
 print(f"Emergency Contact: {emergency_contact[1]} ({emergency_contact[0]}) - {emergency_contact[2]}")
-print(f"Home Address: {home_adrdress[0]}, {home_adrdress[1]}, {home_adrdress[2]} {home_adrdress[3]}")
+print(f"Home Address: {home_address[0]}, {home_address[1]}, {home_address[2]} {home_address[3]}")
 print(f"Social Media Presence: {total_followers} followers across 2 platforms")
 print(f"Key Contacts: {len(contact_directory)} people in directory\n")
 
