@@ -12,11 +12,11 @@ credit_hours = [3, 3, 3, 3]
 GPA_history = [4.0, 3.8, 3.2, 3.7]
 
 # Contact Information Storage
-emergency_contact = ("Mom", "Melanie Partridge", "704-555-0199")
-home_address = ("456 Oak Street","Charlotte","NC", "28202")
+emergency_contact = ("Mom", "Melanie Partridge", "555-555-5555")
+home_address = ("123 Maple Street","Greensboro","NC", "27411")
 instagram_info = ("Instagram", "@pasht0n7", 7)
 twitter_info = ("Twitter", "N/A", 0)
-birthday = ("Birthday", 5, 22, 2006)
+birthday = ("Birthday", 7, 16, 2006)
 
 # Intrest Tracking
 current_skills = {"Python basics", "LUA", "Problem solving", "Time management"}
@@ -31,7 +31,7 @@ course_professors = {"COMP 163": "Prof. Rhodes", "COMP 180": "Dr. Pioro", "SPCH 
 course_rooms = {"COMP 163": "M-Eric 300", "COMP 180": "M-Eric 201", "ENG 101": "Crosby 121", "HIS 105": "Crosby 210"}
 monthy_budget = {"Food": 220, "Entertainment": 170, "Books": 115, "Transportation": 80}
 study_hours_per_subject = {"Programming": 10, "Speech": 4, "History": 6}
-contact_directory = {"Mom": "704-555-0199", "Roomate": "336-555-7821", "Academic Advisor": "336-334-5000"}
+contact_directory = {"Mom": "555-555-5555", "Roomate": "333-555-6666", "Academic Advisor": "654-321-1234"}
 
 # Required Calculations
 total_credit_hours = sum(credit_hours) # Adds all the elements of the list credit_hours together
